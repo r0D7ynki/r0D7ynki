@@ -23,11 +23,11 @@
 
 ### 📈 GitHub Stats
 <div align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <a href="https://github.com/r0D7ynki">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r0D7ynki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <a href="https://github.com/r0D7ynki">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0D7ynki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </div>
 
