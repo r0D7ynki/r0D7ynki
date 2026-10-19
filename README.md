@@ -9,6 +9,7 @@
 - 🐧 My daily driver is **Omarchy Linux** with **Hyprland**.
 
 
+<br/>
 ### 📈 GitHub Stats
 <div align="left">
   <a href="https://github.com/r0D7ynki">
