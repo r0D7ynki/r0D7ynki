@@ -8,6 +8,7 @@
 - 🎓 I'm a first-year **Management Engineering** student at **Wrocław University of Science and Technology** (PWr).
 - 🐧 My daily driver is **Omarchy Linux** with **Hyprland**.
 
+
 ### 📈 GitHub Stats
 <div align="left">
   <a href="https://github.com/r0D7ynki">
